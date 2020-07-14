@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  Rails.application.routes.draw do
+
   get 'secrets/new'
 
   root 'application#hello'
